@@ -45,6 +45,12 @@
         },
         {
           "...": "../blocks/form/components/card-choice/_card-choice.json#/definitions"
+        },
+        {
+          "...": "../blocks/form/components/customCards/_customCards.json#/definitions"
+        },
+        {
+          "...": "../blocks/form/components/cards/_cards.json#/definitions"
         }
       ]
     }
